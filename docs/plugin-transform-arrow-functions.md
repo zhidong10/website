@@ -4,7 +4,7 @@ title: @babel/plugin-transform-arrow-functions
 sidebar_label: arrow-functions
 ---
 
-> **NOTE**: This plugin is included in `@babel/preset-env`
+> **NOTE**: This plugin is included in `@babel/preset-env`  But you can install it manually and then use it
 
 ## Example
 
